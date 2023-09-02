@@ -823,54 +823,11 @@ justify-content: center;
       }
 }
 
-@media screen and (max-width: 270px){
-    #fr_contact_us{
-        font-size: 10px;
-        margin-left: -6rem;
-    }
-    .pl_contact_us{
-        font-size: 5px;
-       }
-       #btn_contact_us{
-         font-size: 5px;
-       }
-     
-}
-@media screen and (max-width: 260px){
-    #fr_contact_us{
-        font-size: 2%;
-        margin-left: -6rem;
-    }
-    .pl_contact_us{
-        font-size: 5px;
-       }
-       #btn_contact_us{
-         font-size: 5px;
-       }
-       #query2_contact_us{
-        background: transparent;
-       }
-}
-@media screen and (max-width: 220px){
-    #fr_contact_us{
-        font-size: 1%;
-        margin-left: -3rem;
-    }
-    .pl_contact_us{
-        font-size: 2px;
-       }
-       #btn_contact_us{
-         font-size: 2px;
-       }
-       #query2_contact_us{
-        background: transparent;
-       }
-}
-
 @media screen and (max-width: 280px) {
     #fr_contact_us{
         font-size: 15px;
         margin-left: -6rem;
+        text-align: center;
     }
     .pl_contact_us{
         font-size: 5px;
